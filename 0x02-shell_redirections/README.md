@@ -1,1 +1,1 @@
-It print hello, world
+echo command print Hello world
