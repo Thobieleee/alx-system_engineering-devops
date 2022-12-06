@@ -1,1 +1,1 @@
-echo command print Hello world
+it displays the third line of the file iacta
